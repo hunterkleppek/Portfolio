@@ -1,5 +1,5 @@
 # Introduction
-Hello my name is Hunter Kleppek, I am a Software Developer at SECURA Insurance Compaines. In my free time I enjoy hiking in the woods, spending time out on the water and building things around the house.
+Hello my name is Hunter Kleppek, I am a Software Engineer at SECURA Insurance Compaines. In my free time I enjoy hiking in the woods, spending time out on the water and building things around the house.
 
 # Contact Information
 Email: hunterjkleppek1@gmail.com <br>
