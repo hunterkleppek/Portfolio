@@ -24,3 +24,7 @@
 * VB.NET
 * SQL
 * Github Co-Pilot
+* Dynatrace
+* Azure API Management
+* Postman
+* Visual Studio
