@@ -15,6 +15,7 @@
   * Created a custom NuGet package for HttpClientFactory to be used company wide.
 
 * Software Engineer, SECURA Insurance Companies September 2024 - Present
+  * Worked on researched and documented MuleSoft APIs to be converted to .NET. As well as wrote the stories for those conversions.
 
 
 
@@ -28,3 +29,4 @@
 * Azure API Management
 * Postman
 * Visual Studio
+* Aglie
